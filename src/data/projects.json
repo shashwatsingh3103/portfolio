@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Project Management Platform",
+    "imageSrc": "projects/project.png",
+    "description": "A subscription-based platform to enhance project management efficiency.",
+    "skills": ["Spring Boot", "Java", "RESTful API", "MySQL"],
+    "source": "https://github.com/shashwatsingh3103/project-manager"
+  },
+  {
+    "title": "Social Hub Live",
+    "imageSrc": "projects/project.png",
+    "description": "A social media web application similar to Twitter, promoting user engagement.",
+    "skills": ["Spring Boot", "Data JPA", "Spring Security", "React"],
+    "source": "https://github.com/shashwatsingh3103/socialmedia-app"
+  },
+  {
+    "title": "Speech Emotion Detection",
+    "imageSrc": "projects/project.png",
+    "description": "An LSTM-based speech emotion recognition system for accurate emotion classification.",
+    "skills": ["Deep Learning", "LSTM", "Streamlit", "MFCC"],
+    "source": "https://github.com/shashwatsingh3103/soundemotion"
+  }
+]

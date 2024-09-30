@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Java Intern",
+    "organisation": "IT NetworkZ",
+    "startDate": "June 2023",
+    "endDate": "September 2023",
+    "experiences": [
+      "Optimized backend performance using Spring Boot.",
+      "Enhanced data retrieval efficiency with Spring Data JPA.",
+      "Secured RESTful APIs, improving data protection."
+    ],
+    "imageSrc": "history/53505IT-NetworkZ logo.jpg"
+  },
+  {
+    "role": "Data Science Intern",
+    "organisation": "Fledge Consulting",
+    "startDate": "June 2024",
+    "endDate": "August 2024",
+    "experiences": [
+      "Conducted EDA on large datasets to enhance data precision.",
+      "Developed a spam detection model using Random Forest.",
+      "Improved model prediction accuracy and operational efficiency."
+    ],
+    "imageSrc": "history/Screenshot 2024-09-30 160758.jpg"
+  }
+]

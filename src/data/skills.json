@@ -1,0 +1,37 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+ 
+ 
+  
+  {
+    "title": "Java",
+    "imageSrc": "skills/avaIcon.jpg"
+  },
+  {
+    "title": "Spring Boot",
+    "imageSrc": "skills/springbootIcon.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/mysql_PNG23.png"
+  },
+  {
+    "title": "Spring Security",
+    "imageSrc": "skills/th (3).jpg"
+  },
+  {
+    "title": "Python Data Analysis",
+    "imageSrc": "skills/th (4).jpg"
+  }
+]
